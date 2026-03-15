@@ -15,9 +15,9 @@ const noMessages = [
     "Please say you aren't...",
     "If you say no, I will be really sad, Honey.",
     "I will be very sad.",
-    "Really?",
+    "Really? You can't catch me anyway hehehe",
     "Don't do this to me.",
-    "You can't catch me anyway hehehe",
+    "You still can't catch me",
     "Last chance!"
 ]
 
