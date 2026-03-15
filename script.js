@@ -17,15 +17,15 @@ const noMessages = [
     "I will be very sad.",
     "Really?",
     "Don't do this to me.",
-    "Last chance!",
-    "You can't catch me anyway hehehe"
+    "You can't catch me anyway hehehe",
+    "Last chance!"
 ]
 
 const yesTeasePokes = [
     "Just try saying no first. I bet you want to know what happens.",
-    "go on, hit no, Honey. Just once.",
+    "Go on, hit no, Honey. Just once.",
     "You're missing out...",
-    "click no, I dare you!"
+    "Click no, I dare you!"
 ]
 
 let yesTeasedCount = 0
