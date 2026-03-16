@@ -4,9 +4,9 @@ const gifStages = [
     "https://c.tenor.com/GkjKfwjeb-EAAAAC/tenor.gif",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
     "music/Puppy Eyes.jpeg",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
+    "hhttps://media.tenor.com/OCEHuWSxHgMAAAAi/emicat-begging.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "music/Metal"  // 7 crying runaway
+    "music/Metal.jpeg"  // 7 crying runaway
 ]
 
 const noMessages = [
