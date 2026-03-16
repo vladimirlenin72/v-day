@@ -6,7 +6,7 @@ const gifStages = [
     "music/Puppy Eyes.jpeg",       // 4 sadder
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "music/Metal"  // 7 crying runaway
 ]
 
 const noMessages = [
